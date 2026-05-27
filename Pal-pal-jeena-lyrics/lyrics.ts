@@ -32,7 +32,7 @@ async function singLyrics() {
     for (const line of lyrics) {
         if (line === "") {
             console.log();
-            await delay(1500);
+            await delay(1000);
             continue;
         }
 

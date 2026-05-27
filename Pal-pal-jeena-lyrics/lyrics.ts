@@ -38,7 +38,7 @@ async function singLyrics() {
 
         for (const char of line) {
             process.stdout.write(char);
-            await delay(100);
+            await delay(50);
         }
 
         console.log();

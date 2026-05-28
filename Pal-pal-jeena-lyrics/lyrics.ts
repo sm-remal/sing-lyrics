@@ -45,7 +45,7 @@ async function singLyrics() {
         await delay(500);
     }
 
-    console.log("\n ~ Remal ~ ");
+    console.log("\n ~~ Remal ~~ ");
 }
 
 singLyrics();
